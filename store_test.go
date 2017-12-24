@@ -1,7 +1,7 @@
 package store_test
 
 import (
-	"gopkg.in/andviro/noodle.v2/store"
+	"github.com/go-noodle/store"
 	"gopkg.in/tylerb/is.v1"
 	"testing"
 	"time"
